@@ -1,0 +1,56 @@
+p {
+    font-family: "Noto Sans Mono";
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: white;
+}
+
+.video-title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 10px;
+}
+
+.video-stats {
+    font-size: 14px;
+    color: grey;
+    margin-bottom: 20px;
+}
+
+.video-author {
+    font-size: 14px;
+    margin-top: 16px;
+    color: rgb(81, 80, 80);
+    margin-bottom: 20px;
+}
+
+.video-description {
+    font-size: 14px;
+    width: 280px;
+    color: rgb(81, 80, 80);
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+
+.apple-shop {
+    margin-bottom: 50px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.span {
+    text-decoration: none;
+    margin-left: 14px;
+}
+
+.span:hover {
+    text-decoration: underline;
+}
